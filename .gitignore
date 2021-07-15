@@ -1,14 +1,10 @@
-.DS_Store
-/build/
-xcuserdata
-*.swp
-*~.nib
+
 
 UserInterfaceState.xcuserstate
 *.xcscmblueprint
 *.pbxuser
 *.perspective
-*.perspectivev3
+*.perspectivev
 
 *.mode1v3
 *.mode2v3
